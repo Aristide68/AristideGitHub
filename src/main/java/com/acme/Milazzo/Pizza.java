@@ -1,4 +1,4 @@
-package com.acme.Milazz;
+package com.acme.Milazzo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
